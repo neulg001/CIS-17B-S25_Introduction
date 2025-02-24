@@ -1,2 +1,4 @@
 # CIS-17B-S25_Introduction
-test
+Name: Nikos Eulgem
+Professor: John O’Connor 
+Section Number: 33477
